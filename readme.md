@@ -19,7 +19,7 @@ OVHcloud now exposes a [central public roadmap and changelog for all its Hosting
 
 Note : you can also create issues [regarding our Collaborative tools](https://github.com/ovh/collaborative-tools-roadmap/issues/new)
 
-OVHcloud also offers cloud products and solutions. [You will find our cloud roadmap and changelog here](https://github.com/orgs/ovh/projects/16?pane=info) . 
+OVHcloud also offers cloud products and solutions. [You will find our cloud roadmap and changelog here](https://github.com/orgs/ovh/projects/18?pane=info) . 
 
 ## Notes/Disclaimer
 - New issues will be considered typically within a week and may be marked as **Acknowledged** if they align with our product strategy.
